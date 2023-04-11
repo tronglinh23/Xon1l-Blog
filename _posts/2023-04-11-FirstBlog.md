@@ -1,4 +1,4 @@
 ---
 title: "Hello world"
-date: YYYY-MM-DD
+date: 2023-04-11
 ---
